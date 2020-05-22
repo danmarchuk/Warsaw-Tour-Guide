@@ -5,7 +5,61 @@
     <string name="cinemas">Cinemas</string>
     <string name="shops">Shops</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="star_vines">Star Wines Poland</string>
+    <string name="star_vines_description">There are more than 400 wines from the
+                whole world available for retail purchase at Star Wines Poland  manufactured both by the most highly acknowledged
+                producers and niche vineyards; the award-winning wine selection
+                recognized by the prestigious Wine Spectator will make for a good purchase</string>
+    <string name="olimpia_bazaar">Olimpia Bazaar</string>
+    <string name="olimpia_bazaar_description">Within a week, there is a sports club in here
+                On Sunday, the stadium turns into a big market. On Olympia, the bazaar at Górczewska street you can buy antiquities, clothing and tools.
+                Old newspapers, books, that you can not get up even in antique shops, used shoes - it all adds up to a peculiar charm of this place</string>
+    <string name="kino_muranow">Kino Muranow</string>
+    <string name="kino_muranow_description">In 2004, Kino Muranow won the “Europa Cinemas Award” for Best
+                Cinema in Europe in terms of repertoire. Among this repertoire, you can find an English
+                Friendly Movie Cycle of non-English movies (including Polish movies) with English subtitles.</string>
+    <string name="kino_wisla">Kino Wisla</string>
+    <string name="kino_wisla_description">Kino Wisła also organizes Polish Film For Foreigners, a super
+                cool series of screening about (you guessed it) Polish Movies with English subtitles.
+                After the screenings, there are usually meetings with the actors or with the director of the movie.</string>
+
+    <string name="national_muzeum">National Museum in Warsaw</string>
+    <string name="national_muzeum_des">The National Museum in
+                Warsaw was founded in 1862 as the Museum of Fine Arts and is one of the oldest museums in Poland.
+                The modernist building where it`s located currently was built between 1927-1938 and it`s
+                one of the most important buildings of that time in Warsaw (Tadeusz Tołwiński`s project).</string>
+    <string name="zacheta">Zachęta – National Gallery of Art</string>
+    <string name="zacheta_des">Zachęta is one of the oldest galleries in Poland.
+                The beautiful building was constructed between 1898-1900 according to project of Stefan Szyller.
+                Gallery presented all the most important Polish artists’ including Wojciech Gerson, Jan Matejko, Józef Chełmoński,
+                or Stanisław Wyspiański.</string>
+    <string name="muz_on_the_wis">Museum on the Vistula – Museum of Modern Art</string>
+    <string name="muz_on_the_wis_des">The Museum on the Vistula is a new exhibition
+                pavilion of the Museum of Modern Art in Warsaw. It`s located at Wybrzeże
+                Kościuszkowskie 22, next to the Copernicus Science Center and Vistula river</string>
+    <string name="fokzal">Foksal Gallery</string>
+    <string name="fokzal_des">Foksal Gallery was founded in 1966 so it`s the oldest and one of the most
+                prominent galleries of modern art in Poland. The gallery is focused on searching out and
+                highlighting radical approaches to contemporary art.</string>
+
+    <string name="halakosz">Hala Koszyki</string>
+    <string name="halakosz_des">Eighteen fabulous restaurant concepts,
+                eleven fantastic groceries and service premises - Warsaws Śródmieście
+                regained its lost pearl. Hala Koszyki is the first and the only place of its kind in whole Poland.</string>
+
+    <string name="arkadia">Westfield Arkadia Shopping Mall</string>
+    <string name="arkadia_des">There is a nice food court and
+                lots of shops including Polish clothing stores. All in all a great selection of stores.
+                Outside there is a beautiful playground for kids. This is a great place to shop for clothes,
+                luggage, food, etc. There is a taxi stand nearby but taxis seldom come by.</string>
+
+    <string name="zlote_tar">Zlote Tarasy</string>
+    <string name="zlote_tar_des">Huge shopping complex. Designer brands,
+                prices slightly higher than other European destinations. Large variety of food outlets on top floors.
+                Had some wonderful Turkish food there. Easy access from central station.</string>
+
+    <string name="galeria_mok">Galeria Mokotow</string>
+    <string name="galeria_mok_des">Almost 250 shops on several floors make Galeria Mokotow one
+                of the largest shopping centers in Warsaw. Visitors may have to take a tram or bus to reach it.</string>
 
 </resources>

@@ -27,20 +27,8 @@ public class ShopsFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.list, container,false);
         final ArrayList<Place> places = new ArrayList<>();
-        places.add(new Place("Star Wines Poland", "There are more than 400 wines from the " +
-                "whole world available for retail purchase at Star Wines Poland  manufactured both by the most highly acknowledged " +
-                "producers and niche vineyards; the award-winning wine selection" +
-                " recognized by the prestigious Wine Spectator will make for a good purchase."));
-        places.add(new Place("Olimpia Bazaar", "Within a week, there is a sports club in here. " +
-                "On Sunday, the stadium turns into a big market. On Olympia, the bazaar at Górczewska street you can buy antiquities, clothing and tools." +
-                "Old newspapers, books, that you can not get up even in antique shops, used shoes - it all adds up to a peculiar charm of this place."));
-        places.add(new Place("Quality Missala Perfumery", "Quality Missala Perfumery in the Warsaw Marriott Hotel is an exceptional boutique," +
-                " which stocks the finest niche perfumes from around the world, some of them being available just in a few perfumeries in Europe."));
-        places.add(new Place("Rozycki Bazaar", "The Rozycki Bazaar is the last continuously " +
-                "trading historical bazaar in Warsaw. Founded 102 years ago it is also the oldest bazaar in Warsaw." +
-                "In addition to its commercial activities throughout the years, Rozycki Bazaar has become a mainstay of Warsaw folklore " +
-                "and humour. The advertising and sales shouts of the vendors have become " +
-                "common sayings, even finding their way to the cabaret scene in Warsaw."));
+        places.add(new Place(getString(R.string.star_vines), getString(R.string.star_vines_description)));
+        places.add(new Place(getString(R.string.olimpia_bazaar), getString(R.string.olimpia_bazaar_description)));
 
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places);
 
