@@ -6,7 +6,7 @@ This project was a chance for me to combine and practice everything I learned in
 
 The goal was to create a Tour Guide App which presents relevant information to a user who’s visiting my city. The app can list top malls, shops, galleries and museums of the city. It contains all the best known secrets that only locals know. 
 
-This project was about combining various ideas and skills we’ve been practicing throughout the course. They include:
+This project was about combining various ideas and skills I’ve been practicing throughout the course on Udacity.com. They include:
 
   - Planning your app design and navigation before coding
   - Selecting proper data structures to store lists of information
